@@ -1,0 +1,27 @@
+form {
+    margin: 0 auto;
+}
+
+table {
+    text-align: center;
+}
+
+button {
+   width: 85px;
+   height: 85px;
+   font-size: x-large;
+   background-color: #dcdcdc;
+   border-radius: 20px;
+}
+
+#result {
+    width: 350px;
+    height: 80px;
+    border: solid;
+    border-radius: 20px;
+    text-align: right;
+    padding: 0 9px;
+    font-size: x-large;
+    
+}
+
